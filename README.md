@@ -56,3 +56,12 @@ Menü üzerinden kurmak istediğiniz aracı seçin.
 
 Bu script yalnızca yetkili ve yasal güvenlik testleri için kullanılmalıdır.
 Tüm sorumluluk kullanıcıya aittir.
+
+
+
+
+
+
+
+
+<img width="660" height="435" alt="resim" src="https://github.com/user-attachments/assets/817d4b1f-4dd4-4fbb-9f70-7f4ce3a60b0f" />
